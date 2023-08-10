@@ -122,7 +122,7 @@
       ]
     },
     {
-      "description": "⌘+⇧ +1でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +1でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -136,13 +136,13 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
     },
     {
-      "description": "⌘+⇧ +2でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +2でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -156,13 +156,13 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
     },
     {
-      "description": "⌘+⇧ +3でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +3でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -176,13 +176,13 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
     },
     {
-      "description": "⌘+⇧ +4でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +4でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -196,13 +196,13 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
     },
     {
-      "description": "⌘+⇧ +5でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +5でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -216,13 +216,13 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
     },
     {
-      "description": "⌘+⇧ +6でGyazo GIF Teams起動",
+      "description": "⌘+⇧ +6でGyazo Video Teams起動",
       "manipulators": [
         {
           "type": "basic",
@@ -236,7 +236,7 @@
             }
           },
           "to": [
-            { "shell_command": "open -a 'Gyazo GIF Teams.app'" }
+            { "shell_command": "open -a 'Gyazo Video Teams.app'" }
           ]
         }
       ]
